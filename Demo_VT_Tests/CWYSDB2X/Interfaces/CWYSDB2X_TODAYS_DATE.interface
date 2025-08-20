@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 25.1.1.v20250623-1846_205?>
+<!--BMC AMI DevX Total Test 25.1.1.v20250623-1846_205 Aug 20, 2025, 3:30:34 PM-->
+<interface:interface xmlns:interface="http://www.compuware.com/model/xml/interface" xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" alias="" id="CWYSDB2X/Interfaces/CWYSDB2X_TODAYS_DATE.interface">
+  <interface:description></interface:description>
+  <interface:argument listructure="../Structures/CWYSDB2X_TODAYS-DATE.listructure#CWYSDB2X/Structures/CWYSDB2X_TODAYS-DATE.listructure">
+    <interface:baseTypeExtension baseType="listructure:structType ../Structures/CWYSDB2X_TODAYS-DATE.listructure#TODAYS_DATE">
+      <properties:properties>
+        <properties:property name="usage" type="string">inout</properties:property>
+      </properties:properties>
+    </interface:baseTypeExtension>
+    <interface:baseTypeExtension baseType="listructure:stringType ../Structures/CWYSDB2X_TODAYS-DATE.listructure#TODAYS_DATE.TODAYS_DATE">
+      <properties:properties>
+        <properties:property name="usage" type="string">inout</properties:property>
+      </properties:properties>
+    </interface:baseTypeExtension>
+  </interface:argument>
+</interface:interface>
