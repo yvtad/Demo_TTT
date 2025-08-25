@@ -1,0 +1,12 @@
+
+***************** Output from TTTRUNNR *****************
+
+ STTR043I Initializing simulation environment for: COBOL V4                                                              
+ STTR043I Initializing simulation environment for: COBOL V5                                                              
+ STTR011I totaltest zTargetRunner v170200 on 2025-08-25 08:51.06ꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸ                   
+ STTR012I Options set to EXIT(),STUBS(ON),ARGTYPE(ꞸꞸꞸꞸꞸꞸꞸꞸ)                                                              
+ STTR013I Processing test suite CWYSDB2X_Scenario                                                                        
+ STTR014I Processing test scenario CWYSDB2X_Scenario                                                                     
+ STTR028I Processing test case CWYSDB2XCase1                                                                             
+ STTR006I Executing target CWYSDB2X#CꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸꞸ                                  
+ STTR008I All targets successfully executed                                                                              
