@@ -1,0 +1,40 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<stub:stub xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" disposition="SHR" encoding="1047" fileStatus="00" id="CWKTVSKS2/Stubs/CWKTVSKS_EMPFILE_FILE_02.stub" keyLength="5" keyPosition="0" stubtype="VSAM KSDS (Organization: Index)" target="EMPFILE" token="170000">
+  <stub:description>Created: Sep 2, 2025, 11:27:11 AM</stub:description>
+  <stub:stubdata id="0" name="EMPFILE">
+    <stub:inputinterface>../Interfaces/CWKTVSKS_EMPFILE_EMPLOYEE_WORK_AREA.interface#CWKTVSKS2/Interfaces/CWKTVSKS_EMPFILE_EMPLOYEE_WORK_AREA.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/CWKTVSKS_EMPFILE_EMPLOYEE-WORK-AREA.listructure#CWKTVSKS2/Structures/CWKTVSKS_EMPFILE_EMPLOYEE-WORK-AREA.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWKTVSKS_EMPFILE_EMPLOYEE-WORK-AREA.listructure#EMPLOYEE_WORK_AREA" id="arg0.EMPLOYEE_WORK_AREA">
+        <properties:properties>
+          <properties:property name="value" type="string">F1F5F5F5F5C8F3C3888195A3859340D189948599A296F9F2F9F340C88987888781A38540C3C68595A689839240E6E5F2F6F3F6F040404040F2F800878F4040404040404040F7F2F0F6F0F24040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:checkconditions/>
+    <stub:inputkey value="F1F5F5F5F5"/>
+  </stub:stubdata>
+  <stub:stubdata id="1" name="EMPFILE">
+    <stub:inputinterface>../Interfaces/CWKTVSKS_EMPFILE_EMPLOYEE_WORK_AREA.interface#CWKTVSKS2/Interfaces/CWKTVSKS_EMPFILE_EMPLOYEE_WORK_AREA.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/CWKTVSKS_EMPFILE_EMPLOYEE-WORK-AREA.listructure#CWKTVSKS2/Structures/CWKTVSKS_EMPFILE_EMPLOYEE-WORK-AREA.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWKTVSKS_EMPFILE_EMPLOYEE-WORK-AREA.listructure#EMPLOYEE_WORK_AREA" id="arg0.EMPLOYEE_WORK_AREA">
+        <properties:properties>
+          <properties:property name="value" type="string">F1F5F5F5F7E2F3C19581948199898540D79699838889F1F2F4F1F840C89693948799859540C39985898788A396D5C5F6F8F4F4F7404040403247670FF5F8F6F0F9F3F94040F1F2F0F9F2F74040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:checkconditions/>
+    <stub:inputkey value="F1F5F5F5F7"/>
+  </stub:stubdata>
+  <stub:stubdata id="2" name="EMPFILE">
+    <stub:inputinterface>../Interfaces/CWKTVSKS_EMPFILE_EMPLOYEE_WORK_AREA.interface#CWKTVSKS2/Interfaces/CWKTVSKS_EMPFILE_EMPLOYEE_WORK_AREA.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/CWKTVSKS_EMPFILE_EMPLOYEE-WORK-AREA.listructure#CWKTVSKS2/Structures/CWKTVSKS_EMPFILE_EMPLOYEE-WORK-AREA.listructure">
+      <stub:data baseType="listructure:structType ../Structures/CWKTVSKS_EMPFILE_EMPLOYEE-WORK-AREA.listructure#EMPLOYEE_WORK_AREA" id="arg0.EMPLOYEE_WORK_AREA">
+        <properties:properties>
+          <properties:property name="value" type="string">F1F5F5F5F8E2F4C4859485A39989A4A240E2838885A4F9F3F3F5F540C2859989958740E2A3C78596998785A396C6D3F3F3F8F4F2404040405568474FF5F9F1F3F7F6F34040F9F6F0F5F1F34040404040</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:checkconditions/>
+    <stub:inputkey value="F1F5F5F5F8"/>
+  </stub:stubdata>
+</stub:stub>
